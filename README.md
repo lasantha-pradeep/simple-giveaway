@@ -55,13 +55,7 @@ php artisan key:generate
 php artisan migrate
 ```
 
-### 6. Seed the Database (Optional)
-Run this command to create default admin or sample data:
-```bash
-php artisan db:seed
-```
-
-### 7. Start the Development Server
+### 6. Start the Development Server
 ```bash
 php artisan serve
 ```
